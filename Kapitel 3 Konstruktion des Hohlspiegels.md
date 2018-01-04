@@ -92,5 +92,16 @@ Funktionsweise des Produkt parallel quelle
 Gleichung - M wert- durch punktquelle
 ]
 
+3-5 CAD Konstruktion des Holspiegels
 
+Mit der vorher ermittelten Formel ist es möglich eine Parabel zu bestimmen, um so den für den Versuchsaufbau theoretisch idealen Holspigel zu erstellen. 
+Da es in AutoCAD nicht möglich ist eine Parabel einzulesen, muss vorher eine Punktetabelle mittels eines Kalkulationsprogramms erstellt werden. Anschließend wird die Punktetabelle durch einer Funktionsbefehle in AutoCAD eingelesen. Um den Offset zwischen der idealen Funktion und dem Parabolspiegel möglichst gering zu halten, sollte eine möglichst geringe Schrittweite gewählt werden. Da die Punkte jedoch manuell verbunden werden müssen, wird die eine Schrittweite auf der X-Achse von 0,1mm gewählt. Da der Parabolspiegel einen durchesser von 200 mm hat, egibt dies 1000 einzelne Punkte, die im CAD-Programm verbunden werden müsen. 
+Anschließend ist die Parabel wie in Abbildung M.1 erstellt.
+Aufgrund der Fertigung des Parabolspiegels mittels 3D-Drucker gibt es geometrische Vorgaben die eingehalten werden sollten. 
+Um möglichst viel Material und ebend so Zeit zu sparen, ist es es nötig die Winkel des Parabolspiegels geringer als 135° zu halten, da es bei Strukturen mit größerem Winkel, notwendig wird, Stützstrukturen zu drucken um so die entsprechende Stabilität während des Druckvorgangs zu gewährleisten und die Form zu realisieren. 
+Zudem ist die Oberfläche des Parabolspiegels bei verwendeten Stützstrukturen häufig sehr unrein gearbeitet, was in diesem fall jedoch nur einen ästhetischen Wert hat.
+Daraus ergibt sich eine Form wie in Abbildung M.2 gezeigt.
+Aufgrund der befestigung des Mikrofons loch in Spiegel
+
+Anbringen an Haltevorrichtung, Löcher für Schrauben und angehängtem Viereck
 
